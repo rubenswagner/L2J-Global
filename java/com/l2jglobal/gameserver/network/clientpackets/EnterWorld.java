@@ -470,7 +470,7 @@ public class EnterWorld implements IClientIncomingPacket
 		}
 		
 		// activeChar.sendPacket(SystemMessageId.WELCOME_TO_THE_WORLD_OF_LINEAGE_II);
-		activeChar.sendMessage("Welcome " + activeChar.getName() + " to the server Lineage][Global.");
+		activeChar.sendMessage("Welcome " + activeChar.getName() + " to the Lineage][Global.");
 		
 		AnnouncementsTable.getInstance().showAnnouncements(activeChar);
 		
