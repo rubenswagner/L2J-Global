@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skills.xsd">
+	<skill id="39101" toLevel="1" name="Chase Down">
+		<!-- AUTO GENERATED SKILL -->
+		<!-- For 15 seconds, Speed increases by 66. -->
+		<icon>icon.skill0998</icon>
+		<operateType>A2</operateType>
+		<hitTime>1000</hitTime>
+		<effectPoint>438</effectPoint>
+		<reuseDelay>30000</reuseDelay>
+	</skill>
+	<skill id="39102" toLevel="1" name="Sneak">
+		<!-- AUTO GENERATED SKILL -->
+		<!-- Protected from preemptive attacks from monsters. -->
+		<icon>icon.skill10518</icon>
+		<operateType>T</operateType>
+		<mpConsume>1</mpConsume>
+	</skill>
+</list>
